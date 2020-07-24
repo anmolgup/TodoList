@@ -8,3 +8,5 @@ It has four buttons
 2. **Reset**   : To reset the text entered in the New Task Box
 3. **Sort**    : To move all done tasks to the bottom of the list
 4.  **CleanUp**: To remove all done tasks from the list
+
+![Sample](https://github.com/anmolgup/TodoList/blob/master/sample1.png)
