@@ -9,4 +9,6 @@ It has four buttons
 3. **Sort**    : To move all done tasks to the bottom of the list
 4.  **CleanUp**: To remove all done tasks from the list
 
+[Live Demo](https://todolist987.netlify.app/)
+
 ![Sample](https://github.com/anmolgup/TodoList/blob/master/sample1.png)
